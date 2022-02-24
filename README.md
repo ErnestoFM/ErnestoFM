@@ -1,7 +1,7 @@
-### Hi there 👋
+### print("Hello Word") 👋
 
-<!--
-**ErnestoFM/ErnestoFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Mi nombre es **Ernesto Fierro** soy un desarrollador y programador junior 
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
