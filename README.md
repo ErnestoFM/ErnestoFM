@@ -1,5 +1,6 @@
 # 💫 About Me:
-# 👋 Hi, I'm Ernesto Hatuey Fierro Melendez<br><br>🔭 I’m currently studying Computer Science and building my expertise in backend architecture.  <br>👯 I’m looking to collaborate on scalable e-commerce and social platforms with secure admin panels.  <br>🤝 I’m looking for help with advanced Oracle certifications and cloud integrations.  <br>🌱 I’m currently learning more about backend modularization, regex toolkits in Java, and networking labs.  <br>💬 Ask me about Spring Boot, React, Django, cloud workflows, and technical documentation for troubleshooting.  <br>⚡ Fun fact: I love connecting technical solutions to UN Sustainable Development Goals and making every workflow both elegant and useful.
+👋 Hi, I'm Ernesto Hatuey Fierro Melendez<br><br>
+🔭 I’m currently studying Computer Science and building my expertise in backend architecture.  <br>👯 I’m looking to collaborate on scalable e-commerce and social platforms with secure admin panels.  <br>🤝 I’m looking for help with advanced Oracle certifications and cloud integrations.  <br>🌱 I’m currently learning more about backend modularization, regex toolkits in Java, and networking labs.  <br>💬 Ask me about Spring Boot, React, Django, cloud workflows, and technical documentation for troubleshooting.  <br>⚡ Fun fact: I love connecting technical solutions to UN Sustainable Development Goals and making every workflow both elegant and useful.
 
 
 ## 🌐 Socials:
